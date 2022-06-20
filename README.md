@@ -1,5 +1,5 @@
 # toLearnGit
 
-# It is good to learn git   
+# May Be but Not really
 
-# No use if you dont learn git in a  practical way
+# No use if you dont learn git in a  practical way 
