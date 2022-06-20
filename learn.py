@@ -1,7 +1,5 @@
 print("learning")
 
+A = 1
 def BruteForce():
-    a = input()
-    if a&1:
-        reutrn "odd"
-    reutrn "even"
+    return "Lol"
