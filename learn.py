@@ -1,5 +1,5 @@
 print("learning")
 
 A = 1
-def BruteForce():
-    return "Lol"
+def Brute():
+    return "Lol;jngoiwenh"
