@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func man() {
+func mai() {
 	var arr = [...]int{1,2,3,5,5}
 	for i := 0; i <= 10; i++ {
 		fmt.Println(i)

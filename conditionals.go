@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func mn() {
+func m() {
 	if( 3 > 2){
 		fmt.Println("Yes")
 	} else{
