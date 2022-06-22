@@ -1,5 +1,5 @@
-package main
+package mai
 
 func main() {
-	SDJFNOIS;DFNSDH;
+
 }
