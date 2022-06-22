@@ -8,5 +8,5 @@ func code(greet string) {
 	fmt.Println(greet)
 }
 func min() {
-	code("Jidgsf")
+	code("JidgsfDSGBNBL;NSDNBSDN;SDG;GSDDGGDBLSNBDL")
 }
