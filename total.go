@@ -1,5 +1,5 @@
-package mai
+package main
 
-func main() {
-
+func func_im() string {
+	return "IM"
 }

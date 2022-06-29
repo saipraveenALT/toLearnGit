@@ -11,7 +11,7 @@ func main() {
 	)
 	var height, width int = 30, 30
 	const (
-		NAME string= "Broo"
+		NAME string = "Broo"
 	)
 	lol := "Greeting!"
 	fmt.Println(height, width)
@@ -19,5 +19,6 @@ func main() {
 	fmt.Println(lol)
 
 	fmt.Printf("%v, %T\n", name, age)
-	fmt.Printf("%v, %T",NAME,NAME)
+	fmt.Printf("%v, %T", NAME, NAME)
+
 }
